@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'Proyecto-PerezUlivi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2867F9D996BF49AC9EEFB24BE99E9D9D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4ED9338E82234C06B7B7ADA4F83025C2 }}
